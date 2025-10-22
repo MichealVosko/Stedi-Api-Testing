@@ -1,4 +1,5 @@
 streamlit
-request
+requests
 python-dotenv
+
 openpyxl
